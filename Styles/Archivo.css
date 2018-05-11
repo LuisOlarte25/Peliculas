@@ -69,38 +69,38 @@ h2{
 }
 .inicio slide:nth-child(1){
      left: 0%;
-     animation-delay: 0s;
+     animation-delay: 10s;
      background-image: url(../Assets/avengers.jpg);
      background-size: cover;
      background-position: center;
  }
  .inicio slide:nth-child(2){
-    animation-delay: 2s;
+    animation-delay: 8s;
     background-image: url(../Assets/spider.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .inicio slide:nth-child(3){
-    animation-delay: 4s;
+    animation-delay: 6s;
     background-image: url(../Assets/z.jpg);
     background-size: cover;
     background-position: center;
 }
 .inicio slide:nth-child(4){
-    animation-delay: 6s;
+    animation-delay: 4s;
     background-image: url(../Assets/starwars.jpg);
     background-size: cover;
     background-position: center;
 }
 .inicio slide:nth-child(5){
-    animation-delay: 8s;
+    animation-delay: 2s;
     background-image: url(../Assets/king.jpg);
     background-size: cover;
     background-position: center;
 }
 .inicio slide:nth-child(6){
-    animation-delay: 10s;
+    animation-delay: 0s;
     background-image: url(../Assets/reality.jpg);
     background-size: cover;
     background-position: center;
@@ -134,4 +134,50 @@ h2{
     width: 100%;
     height: 100px;
     background-color: #2C2B2B; 
+}
+.drama{
+    width: 100%;
+    height: 30px;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+.aventura{
+    width: 100%;
+    height: 30px;
+    background-color: black;
+    text-align: center;
+    color: white; 
+}
+.comedia{
+    width: 100%;
+    height: 30px;
+    background-color: black;
+    text-align: center;
+    color: white; 
+
+}
+.accion{
+    width: 100%;
+    height: 30px;
+    background-color: black;
+    text-align: center;
+    color: white; 
+
+}
+.deportes{
+    width: 100%;
+    height: 30px;
+    background-color: black;
+    text-align: center;
+    color: white; 
+
+}
+.romance{
+    width: 100%;
+    height: 30px;
+    background-color: black;
+    text-align: center;
+    color: white; 
+
 }
